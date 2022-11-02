@@ -1,2 +1,2 @@
-# GraphQL Server
+# Tinyhouse - GraphQL Server
  GraphQL server with Node and TypeScript
